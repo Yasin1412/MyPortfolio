@@ -1,0 +1,18 @@
+h3:hover,
+  h5:hover {
+    color: #ffc107 !important;
+    cursor: pointer;
+  }
+
+  .card img:hover {
+
+    opacity: 0.7;
+    cursor: pointer;
+
+  }
+
+  div.card:hover {
+
+    border: 2px solid #777;
+
+  }
